@@ -1,0 +1,20 @@
+﻿  main.cpp
+c:\users\euns2ol\desktop\도서관리-eco\main\main\main.cpp(101): error C2664: 'INT_PTR DialogBoxParamA(HINSTANCE,LPCSTR,HWND,DLGPROC,LPARAM)': 인수 4을(를) 'BOOL (__cdecl *)(HWND,UINT,WPARAM,LPARAM)'에서 'DLGPROC'(으)로 변환할 수 없습니다.
+  c:\users\euns2ol\desktop\도서관리-eco\main\main\main.cpp(101): note: 대상 형식과 일치하는 범위에 이름이 같은 함수가 없습니다.
+c:\users\euns2ol\desktop\도서관리-eco\main\main\main.cpp(124): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\euns2ol\desktop\도서관리-eco\main\main\main.cpp(125): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\euns2ol\desktop\도서관리-eco\main\main\main.cpp(126): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\euns2ol\desktop\도서관리-eco\main\main\main.cpp(127): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\euns2ol\desktop\도서관리-eco\main\main\main.cpp(128): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  login.cpp
+c:\users\euns2ol\desktop\도서관리-eco\main\main\login.cpp(34): error C2664: 'INT_PTR DialogBoxParamA(HINSTANCE,LPCSTR,HWND,DLGPROC,LPARAM)': 인수 4을(를) 'BOOL (__cdecl *)(HWND,UINT,WPARAM,LPARAM)'에서 'DLGPROC'(으)로 변환할 수 없습니다.
+  c:\users\euns2ol\desktop\도서관리-eco\main\main\login.cpp(34): note: 대상 형식과 일치하는 범위에 이름이 같은 함수가 없습니다.
+  child.cpp
+c:\users\euns2ol\desktop\도서관리-eco\main\main\child.cpp(64): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\euns2ol\desktop\도서관리-eco\main\main\child.cpp(119): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\euns2ol\desktop\도서관리-eco\main\main\child.cpp(120): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\euns2ol\desktop\도서관리-eco\main\main\child.cpp(121): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\euns2ol\desktop\도서관리-eco\main\main\child.cpp(122): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\euns2ol\desktop\도서관리-eco\main\main\child.cpp(133): error C2664: 'INT_PTR DialogBoxParamA(HINSTANCE,LPCSTR,HWND,DLGPROC,LPARAM)': 인수 4을(를) 'BOOL (__cdecl *)(HWND,UINT,WPARAM,LPARAM)'에서 'DLGPROC'(으)로 변환할 수 없습니다.
+  c:\users\euns2ol\desktop\도서관리-eco\main\main\child.cpp(133): note: 대상 형식과 일치하는 범위에 이름이 같은 함수가 없습니다.
+  코드를 생성하고 있습니다...
